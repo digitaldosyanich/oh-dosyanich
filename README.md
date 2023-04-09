@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @oh-dosyanich
-- 👀 Interested in Houdini & Hou tools, check my GISTS: https://gist.github.com/oh-dosyanich
+- 👀 Interested in Houdini for characters, animation & Hou tools, check my GISTS: https://gist.github.com/oh-dosyanich
 - 📫 How to reach me: gosha@balbobia.com
